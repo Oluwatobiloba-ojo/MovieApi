@@ -1,0 +1,45 @@
+#page{
+    width: 90%;
+    max-width: 960px;
+    margin: 20px auto;
+    border-radius: 6px;
+    box-shadow: 0px 1px 6px rgba(0,0,0,0.2);
+    box-sizing: border-box;
+    padding: 0 0 20px;
+    margin-top: 100px;
+    overflow: hidden;
+    border: 1px solid gold;
+}
+
+#info{
+    background: gold ;
+    padding: 10px 0;
+    text-align: center;
+    color: red;
+    margin-bottom: 25px;
+}
+
+#info input{
+    border-radius: 10px;
+    border: 2px solid gold;
+    border-width: 15px;
+}
+
+img{
+    height: 350px;
+    width: 500px;
+    margin-left: 13vw;
+}
+
+#description p{
+    font-size: large;
+    font-weight: 300;
+    font-style: italic;
+    stroke-width: 20px;   
+}
+
+#info button{
+    border-radius: 2px;
+    border: 2px solid gold;
+    
+}
